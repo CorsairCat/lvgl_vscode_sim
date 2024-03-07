@@ -66,6 +66,7 @@
 				"request": "launch",
 			        "program": "${workspaceFolder}/build/bin/demo",
 				"args": [],
+				"MIMode": "lldb",
 				"cwd": "${fileDirname}",
 				"preLaunchTask": "Build",
 				"stopAtEntry": false,
